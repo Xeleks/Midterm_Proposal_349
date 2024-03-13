@@ -1,0 +1,121 @@
+h1 {
+    margin: 5%;
+}
+
+p {
+    margin: 2%;
+    font-size: 0.8em;
+    line-height: 1.5em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+header {
+    background-color: #F6CA65;
+    padding: 2em;
+    box-shadow: 10px 10px 20px #bebebe,
+        -10px -10px 20px #ffffff;
+    Margin: 0;
+
+}
+
+nav {
+    text-align: center;
+
+}
+
+main {
+    width: 100%;
+    margin: auto;
+}
+
+
+
+
+a {
+    padding: 10%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: 1.3em;
+    
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.a div {
+    width: 50%;
+}
+
+.b div {
+    width: 100%;
+}
+
+.c div {
+    width: 40%;
+}
+
+.desktop {
+    width: 90%;
+    margin: auto;
+    padding-bottom: 10%;
+}
+
+.wireframe {
+    width: 90%;
+    margin: auto;
+}
+
+article {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+article div {
+    width: 40%;
+    margin: 5%;
+
+}
+
+
+
+.a {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    height: 100%;
+    width: 90%;
+    margin: auto;
+
+
+
+
+}
+
+.b {
+    position: relative;
+    flex-direction: column;
+    padding: 5%;
+}
+
+.c {
+    padding: 5%;
+    display: flex;
+    flex-direction: row;
+    width: 30%;
+
+}
+
+.mobiletext {
+    margin-left: 20%;
+
+}
+
+img {
+    width: 100%;
+    height: 100%;
+
+}
